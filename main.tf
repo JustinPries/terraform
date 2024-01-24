@@ -260,8 +260,8 @@ resource "aws_cloudfront_distribution" "distribution" {
 #allocated_storage         = 20
 #identifier                = "my-rds-instance"
 #db_name                   = "wordpress_db"
-#username                  = "jmpriest91"
-#password                  = "ufXy3!LbYC*q%Y"
+#username                  = 
+#password                  = 
 #db_subnet_group_name      = aws_db_subnet_group.rds_subnet_group.name
 #vpc_security_group_ids    = [aws_security_group.rds_security_group.id]
 
