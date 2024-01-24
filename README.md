@@ -14,7 +14,7 @@ Next thing I know it feels like I have a Myspace all of over again tinkering aro
 
 Next thing I know I'm looking up how to create a cloud front distribution to point to that. Then I notice my resume has some typos and my cloudfront distribution has that cached.
 
-Now I am learning how to invalidate a cloud front distribution from aws cli on the fly. Get that figure out?
+Now I am learning how to invalidate a cloud front distribution from aws cli on the fly. Get that figured out?
 
 Cool now my route 53 configuration isn't working. justinpriest.io is giving me error 403, but my cloud front link and s3 bucket link both pull up my resume
 
