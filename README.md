@@ -24,6 +24,6 @@ and the biggest kicker is its easy enough to find quick tutorials for all this s
 
 reading countless medium blog post finding something promising then realizing what they did was deprecated so I need to adjust which is a whole new rabbit hole. A mixture of trial and error. Running terraform plan tracking down the line the error is on, reading more documentation getting it all FIGURED OUT running Terraform Apply and then boom another error that didn’t pop up when running terraform plan.
 
-The AWS SAA Certification is most certainly not enough all by itself, but I also think learning the basics via AWS Certs helped me out A TON. Can't do something in Terraform if you don't know even know what it is can you?
+The AWS SAA Certification is most certainly not enough all by itself, but I also think learning the basics via AWS Certs helped me out A TON. Can't do something in Terraform if you don't know even know what it is, can you?
 
 This basic repository probably contains a lot of elementary work to some veterans, but the process of learning all of this has been extremely fun, it’s like a never ending puzzle and brain just can’t stop until I fix it. I can only imagine how complex those puzzles grow in major enterprise cloud environments with huge production applications. Sounds challenging, but also sounds like a great way to learn.
