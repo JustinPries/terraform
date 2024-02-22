@@ -1,4 +1,4 @@
-This is a combination of playing around with Terraform and practicing IaC with resent AWS Certification. One night I created a Wordpress blog, then another day I created a static S3 website to host my resume. 
+This is a combination of playing around with Terraform and practicing IaC with recent AWS Certification. One night I created a Wordpress blog, then another day I created a static S3 website to host my resume. 
 Kind of a mixture of the popular "CLOUD RESUME PROJECT", Udemy Courses and just messing around. Some of it is copy pasta, like the bash script I used to import my existing Route 53 zone into terraform.
 
 However it's much more of a Frankenstein of gaggles of tutorials online, if nothing else I became a master of closing out google chrome tabs.
